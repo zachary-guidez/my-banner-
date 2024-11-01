@@ -1,0 +1,12 @@
+.btn-blue {
+  background-color: #B30000 ;
+  padding: 20px 20px;
+  border-radius: 5px;
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+#space {
+  margin-bottom: 50px;
+}
